@@ -1,3 +1,3 @@
-# -eRewardsLearner-eRewards-UI
+# eRewards-UI
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-ppager)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/erewardsui)
